@@ -1,5 +1,5 @@
 if { ![info exists ::env(VIVADO_VERSION) ]} {
-  set ::env(VIVADO_VERSION) "2018.3"
+  set ::env(VIVADO_VERSION) "2015.1"
 }
 
 # sets up Vivado messages in a more sensible way
